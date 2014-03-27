@@ -1,0 +1,5 @@
+s_systems_meludico:
+    resource: "@SSystemsMeludicoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
